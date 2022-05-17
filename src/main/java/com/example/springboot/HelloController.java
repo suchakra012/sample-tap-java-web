@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Spring Boot Version with TAP deployed";
+		return "Spring Boot Version 2.0";
 	}
 
 }
