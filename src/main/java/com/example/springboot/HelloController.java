@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return " Updated to Spring Boot Version 3.0";
+		return " Updated to Spring Boot Version 3.0 for TAP 1.22";
 	}
 
 }
